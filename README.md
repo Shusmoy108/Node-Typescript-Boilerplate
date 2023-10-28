@@ -1,29 +1,14 @@
-# README #
+# README
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Typescript boilerplate for node js backend
 
-### What is this repository for? ###
+--- routes.ts keeps all the routes
+--- controllers- keeps all the defination of the routes
+--- helpers keeps functions used in different api's
+--- models keeps the structure of the objects
+--- validators keeps all the data validators
+--- varibles exports all teh static varible used in the project from env
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+#commands
+build: npm run build
+start: npm start
