@@ -1,0 +1,16 @@
+{
+  "name": "node-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "Tyepescipt boilerplate for nodejs backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "typescript"
+  ],
+  "author": "Shusmoy CHowdhury",
+  "license": "ISC"
+}
